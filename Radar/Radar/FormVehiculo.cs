@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Radar
 {
-    public partial class Form1 : Form
+    public partial class FormVehiculo : Form
     {
-        public Form1()
+        public FormVehiculo()
         {
             InitializeComponent();
         }
